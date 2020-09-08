@@ -1,7 +1,9 @@
 # Личный проект «Девайс»
 
 * Студент: [Станислав](https://up.htmlacademy.ru/htmlcss/29/user/1590667).
-* Наставник: `Неизвестно`.
+* Наставник: [Лиза Пак] (https://htmlacademy.ru/profile/lizzy) .
+
+
 
 ---
 
